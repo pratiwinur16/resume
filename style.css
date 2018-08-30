@@ -273,6 +273,7 @@ footer {
 
 footer a {
   color: white;
+  text-decoration: none;
 }
 footer p {
 /*   padding: 1rem; */
@@ -289,7 +290,7 @@ footer p {
   /*    #contact{
     min-height:1100px;
   } */
-  /* 
+   
   .contact-details {
     border: 2px solid #90C695;
     border-radius: 0;
@@ -298,7 +299,7 @@ footer p {
     padding: 10px;
     line-height: normal;
   }
-}*/
+}
 .nav-date {
     float: right;
 }
