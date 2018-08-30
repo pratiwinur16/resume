@@ -211,13 +211,13 @@ nav ul li a:hover {
   border-radius: 100%;
   width: 100px;
   height: 100px;
-  line-height: 100px;
+  line-height: 150px;
   background: #e0ebe8;
   color: #008080;
   text-decoration: none;
   font-size: 30px;
   text-align: center;
-  padding: 10px 1px;
+  
 }
 
 .contact-details:hover {
