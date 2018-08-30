@@ -135,6 +135,7 @@ nav ul li a:hover {
   background-size :cover ;
   background-position: center;
 /*   border: 1px solid; */
+  overflow: hidden;
 }
 
 .work .work-header {
