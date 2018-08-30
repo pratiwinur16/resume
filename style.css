@@ -112,6 +112,7 @@ nav ul li {
   margin-top: 25px;
   font-family:'Titillium Web', sans-serif;
   word-spacing: 2em;
+  scroll-behavior: [ auto | smooth ];
   
 }
 
@@ -120,12 +121,14 @@ nav ul li a {
   text-decoration: none;
   font-family: 'Pacifico', cursive;
   word-spacing: 1cm;
+  scroll-behavior: [ auto | smooth ];
 }
 
 nav ul li a:hover {
   color: green;
   font-family:'Titillium Web', sans-serif;
   word-spacing: 1cm;
+  scroll-behavior: [ auto | smooth ];
 }
 
 .work {
