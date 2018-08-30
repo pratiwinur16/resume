@@ -250,6 +250,9 @@ nav ul li a:hover {
 }
 .fb-comments{
    overflow: auto;
+   margin-left:auto;
+   margin-right:auto;
+    height: 50px;
 }
 
 overflow: auto;
