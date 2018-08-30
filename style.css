@@ -248,7 +248,11 @@ nav ul li a:hover {
   font-family:'Pacifico', cursive;
 
 }
+.fb-comments{
+   overflow: auto;
+}
 
+overflow: auto;
 footer {
   padding: 10px;
   
